@@ -1,6 +1,7 @@
 # Nordic nRF52 DK Project
 
-Dette prosjektet inneholder lab-arbeid relatert til bruk av Nordic Semiconductor nRF52 Development Kit.
+Dette prosjektet inneholder lab-arbeid relatert til bruk av Nordic Semiconductor nRF52 Development Kit. 
+Del av faget TTK4235
 
 ## Innhold
 - Kode og filer for utvikling og testing.
