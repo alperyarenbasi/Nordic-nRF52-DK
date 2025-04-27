@@ -11,3 +11,5 @@ Del av faget TTK4235
 1. Klon repoet:
    ```bash
    git clone https://github.com/alperyarenbasi/Nordic-nRF52-DK.git
+	
+picocom -b 9600 /dev/ttyACM0
