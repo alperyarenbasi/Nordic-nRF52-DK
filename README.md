@@ -1,4 +1,3 @@
-```markdown
 # Nordic nRF52 DK Lab Exercises
 
 This repository contains the lab code, documentation and examples for working with the Nordic Semiconductor nRF52 Development Kit (DK), as part of the TTK4235 “Tilpassede Datasystemer” course at NTNU.
@@ -59,5 +58,4 @@ This repository contains the lab code, documentation and examples for working wi
    picocom -b 9600 /dev/ttyACM0
    ```
    (Replace `/dev/ttyACM0` with the device your board enumerates as.)
-
 
