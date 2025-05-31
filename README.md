@@ -5,7 +5,7 @@ This repository contains the lab code, documentation and examples for working wi
 ## Contents
 
 - `lab_3-0.0.16/`  
-  Source code and configuration for Lab 3 (version 0.0.16), including example firmware and linker scripts.
+  Source code and configuration for Lab 3 
 - `main.pdf`  
   PDF of the lab assignment and hardware specification.
 - `.gitignore`  
